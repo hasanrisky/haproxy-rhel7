@@ -1,4 +1,6 @@
 #!/bin/bash
+#haproxy 2.4.4 on RHEL 7
+#author: https://github.com/hasanrisky
 
 #https://www.haproxy.org/download/2.4/src/haproxy-2.4.4.tar.gz
 
